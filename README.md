@@ -1,5 +1,7 @@
 # Claude-Design
 
+[中文版](./README.zh-CN.md)
+
 `Claude-Design` is for design-heavy work in HTML, CSS, JavaScript, and React. It helps AI coding tools produce polished visual artifacts instead of generic mockups.
 
 It is designed for work such as:

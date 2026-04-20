@@ -1,5 +1,7 @@
 # Claude-Design
 
+[English](./README.md)
+
 `Claude-Design` 用于设计类 HTML 产出，目标是让 AI 编程工具通过 HTML、CSS、JavaScript 和 React 生成更完整、更有设计感的视觉成品，而不是普通模板化页面。
 
 它适合以下工作：
